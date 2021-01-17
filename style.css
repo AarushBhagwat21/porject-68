@@ -1,0 +1,27 @@
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+body{
+    text-align: center;
+}
+#background-image{
+    height: 93%;
+    width: 93%;
+}
+#first-p{
+    margin-top: -200px;
+    margin-left: 100px;
+    margin-right: 100px;
+    color: white;
+    font-size: 25px;
+}
+#video{
+    margin-top: 95px;
+    background-color: aquamarine;
+}
+#video iframe{
+    width: 80%;
+    height:60%;
+}
